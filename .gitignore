@@ -1,1 +1,10 @@
-node_modules\nvenv\n.env\n.DS_Store
+node_modules
+venv
+.env
+.DS_Store
+*.db
+*.db-shm
+*.db-wal
+__pycache__
+.next
+temp_uploads
